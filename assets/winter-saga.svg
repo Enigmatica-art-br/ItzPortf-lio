@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1200">
+<defs><pattern id="snow" width="16" height="16" patternUnits="userSpaceOnUse"><circle cx="4" cy="4" r="1.8" fill="#dfe7ee"/></pattern></defs>
+<rect width="900" height="1200" fill="#0a1118"/><path d="M0 840L900 310V1200H0Z" fill="#8198b2"/><path d="M0 930L900 520V1200H0Z" fill="url(#snow)" opacity=".8"/>
+<circle cx="620" cy="360" r="220" fill="#e9eef2"/><circle cx="620" cy="360" r="170" fill="#0a1118"/>
+<text x="70" y="180" font-family="Georgia,serif" font-size="98" fill="#e9eef2">WINTER</text><text x="70" y="1080" font-family="Georgia,serif" font-style="italic" font-size="150" fill="#e9eef2">Saga</text>
+<text x="76" y="1140" font-family="Arial" font-size="18" letter-spacing="5" fill="#e9eef2">EDITORIAL / CAMPAIGN / 2026</text>
+</svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900">
+<defs><pattern id="dots" width="10" height="10" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.6" fill="#eae5dc"/></pattern></defs>
+<rect width="1200" height="900" fill="#171717"/><rect x="650" width="550" height="900" fill="#eae5dc"/><rect x="650" y="0" width="550" height="900" fill="url(#dots)" opacity=".15"/>
+<text x="60" y="330" font-family="Arial" font-weight="900" font-size="330" letter-spacing="-30" fill="#eae5dc">Aa</text><text x="640" y="690" font-family="Georgia" font-style="italic" font-size="390" fill="#171717">g</text>
+<path d="M70 580H570" stroke="#eae5dc" stroke-width="2"/><text x="70" y="630" font-family="Arial" font-size="20" letter-spacing="6" fill="#eae5dc">FORM / COUNTERFORM / RHYTHM</text>
+</svg>
