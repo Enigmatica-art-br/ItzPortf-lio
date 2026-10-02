@@ -1,0 +1,15 @@
+:root{color-scheme:dark;font-family:Georgia,'Times New Roman',serif}
+*{box-sizing:border-box}
+body{min-height:100vh;margin:0;background:radial-gradient(circle at 80% 15%,#795e3f 0,transparent 35%),linear-gradient(145deg,#261c19,#132d3a);color:#f2e5c8}
+main{width:min(100% - 3rem,820px);min-height:100vh;margin:auto;padding:4rem 0;display:flex;flex-direction:column;justify-content:center}
+a{color:inherit;text-decoration:none}
+a:hover,a:focus-visible{text-decoration:underline;text-underline-offset:.35em}
+.back{position:absolute;top:2rem;font:600 .9rem Arial,sans-serif;letter-spacing:.06em}
+.eyebrow{font:600 .75rem Arial,sans-serif;letter-spacing:.3em;text-transform:uppercase;color:#e5c88f}
+h1{font-size:clamp(4rem,11vw,9rem);line-height:.88;letter-spacing:-.06em;margin:.5rem 0 2rem}
+h1 span{color:#d89965}
+.status{font:700 .8rem Arial,sans-serif;letter-spacing:.18em;text-transform:uppercase;color:#d89965}
+main>p:not(.eyebrow):not(.status){max-width:35rem;font-size:1.2rem;line-height:1.6;color:#e1d5c2}
+nav{display:flex;flex-wrap:wrap;gap:1.5rem;margin-top:3rem;font:600 .85rem Arial,sans-serif;text-transform:uppercase;letter-spacing:.1em}
+nav a{border-bottom:1px solid #9d896d;padding-bottom:.5rem}
+@media(max-width:600px){main{padding:6rem 0 3rem}.back{top:1.5rem}nav{gap:1rem 1.5rem}}
